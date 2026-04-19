@@ -27,6 +27,8 @@ Este projeto documenta a execução prática de montagem, manutenção preventiv
 * Placa-mãe: Positivo POS-EIQ87CY (chipset Intel Q87)
 * Fonte de alimentação: 400 W
 
+![images/pecas](images/pecas.jpeg)
+
 **Software:**
 
 * Sistema Operacional: Windows 10 Pro
@@ -45,8 +47,9 @@ Foi realizada a limpeza dos componentes internos com foco na remoção de poeira
 * Fonte de alimentação (externamente)
 
 A limpeza contribui diretamente para a redução de temperatura e aumento da vida útil dos componentes.
-!
-![pclimpo](pclimpo.jpeg)
+
+
+![images/pclimpo](images/pclimpo.jpeg)
 ---
 
 ### 2. Montagem do Sistema
@@ -60,6 +63,8 @@ A montagem seguiu as etapas padrão:
 * Instalação do disco rígido (HD)
 * Conexão dos cabos de energia (ATX e CPU)
 * Conexão dos cabos de dados (SATA)
+
+![images/pcmontado](images/pcmontado.jpeg)
 
 ---
 
@@ -83,6 +88,8 @@ Ferramenta utilizada: FurMark
 * Temperatura máxima observada: aproximadamente 75 °C
 * Resultado: funcionamento estável durante o teste
 
+![images/furmarkteste](images/furmarkteste.jpeg)
+
 ---
 
 ### Teste de Integridade do Disco
@@ -93,6 +100,8 @@ Ferramenta utilizada: CrystalDiskInfo
 * Temperatura média: 40 °C
 * Horas de uso: aproximadamente 11.000 horas
 * Observação: nenhum erro crítico identificado via S.M.A.R.T.
+
+![images/testehd](images/testehd.jpeg)
 
 ---
 
