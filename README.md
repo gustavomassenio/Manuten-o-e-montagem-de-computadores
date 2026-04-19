@@ -34,6 +34,13 @@ Este projeto documenta a execução prática de montagem, manutenção preventiv
 * Sistema Operacional: Windows 10 Pro
 * DirectX: Versão 12
 
+  ## lista de componentes do computador
+  ![images/listadecomponentes2](images/listadecomponentes2.jpeg)
+
+  ![images/listadecomponentes](images/listadecomponentes.jpeg)
+
+
+
 ---
 
 ## Procedimentos Executados
