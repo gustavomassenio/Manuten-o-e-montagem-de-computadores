@@ -46,7 +46,7 @@ Foi realizada a limpeza dos componentes internos com foco na remoção de poeira
 
 A limpeza contribui diretamente para a redução de temperatura e aumento da vida útil dos componentes.
 !
-
+![pclimpo](pclimpo.jpeg)
 ---
 
 ### 2. Montagem do Sistema
